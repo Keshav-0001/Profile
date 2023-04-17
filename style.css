@@ -1,0 +1,224 @@
+
+body{
+text-align: center;
+margin: 0px;
+font-family: sans-serif;
+
+
+}
+
+.container1{
+background-color: #c4efe6;
+position:relative;
+
+
+}
+.cloud1{
+position: absolute;
+right: 115px;
+margin-top: 66px;
+
+}
+
+.cloud2{
+position:absolute;
+top: 200px;
+
+
+
+}
+.name{
+   
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    color: #49a591;
+}
+h2{
+ font-family: 'Montserrat', sans-serif;;
+margin: 0;
+color: #49a591;
+}
+
+
+hr{
+
+    border-style: none;
+border-top-style: dotted;
+border-color:grey;
+border-width: 10px;
+width: 6%;
+margin-bottom: 70px;
+}
+
+.par{
+
+padding-top: 8%;
+
+}
+
+.web-d{
+    font-family: 'Mukta', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 50px;
+    color:#479786 ;
+
+}
+
+span{
+text-decoration: underline;
+
+}
+
+.keshav{
+width: 25%;
+margin-top: 70px;
+margin-bottom: 30px;
+}
+
+.coding{
+width: 25%;
+margin-bottom: 20px;
+float: left;
+margin-right: 30px;
+}
+
+.sports{
+width: 25%;
+margin-bottom: 20px;
+margin-top: 40px;
+float: right;
+margin-left: 30px;
+}
+
+.skills{
+margin: 30px 0px;
+
+}
+
+.row1{
+width: 50%;
+margin: auto;
+text-align: left;
+line-height: 2;
+
+}
+
+.row2{
+width: 50%;
+margin: auto;
+text-align:left;
+line-height: 2;
+
+}
+
+.prof1{
+
+width: 50%;
+margin: auto;
+
+}
+
+.middle-container{
+
+background-color: #ffffff;
+
+}
+
+.chess{
+margin-top: 80px;
+
+}
+
+.sport-para{
+
+    margin-bottom: 100px;
+
+}
+
+.img-para{
+margin-bottom: 80px;
+
+}
+
+.contact-para{
+font-weight: 400;
+
+}
+
+.get{
+    margin-bottom: 45px;
+    font-size: 35px;
+    font-weight: bolder;
+
+}
+
+.contact{
+width: 30%;
+margin: auto;
+
+}
+.para{
+margin-bottom: 65px;
+margin-top: 50px;
+}
+
+
+
+
+.btn{
+    margin-bottom: 50px;
+    background: #56d6b8;
+    background-image: -webkit-linear-gradient(top, #56d6b8, #38947f);
+    background-image: -moz-linear-gradient(top, #56d6b8, #38947f);
+    background-image: -ms-linear-gradient(top, #56d6b8, #38947f);
+    background-image: -o-linear-gradient(top, #56d6b8, #38947f);
+    background-image: linear-gradient(to bottom, #56d6b8, #38947f);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #fcfcfc;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #118f72;
+    background-image: -webkit-linear-gradient(top, #118f72, #2c8a74);
+    background-image: -moz-linear-gradient(top, #118f72, #2c8a74);
+    background-image: -ms-linear-gradient(top, #118f72, #2c8a74);
+    background-image: -o-linear-gradient(top, #118f72, #2c8a74);
+    background-image: linear-gradient(to bottom, #118f72, #2c8a74);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+  margin-top: 100px;
+  padding: 5%;
+background-color: #118f72;
+  }
+
+  a{
+margin: 0 15px;
+text-decoration: none;
+color:#105345 ;
+font-weight: bold;
+
+  }
+  a:hover{
+
+color: white;
+
+  }
+
+  .last-para{
+color: white;
+margin-top: 25px;
+
+
+  }
